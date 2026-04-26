@@ -89,14 +89,6 @@ Olá! Sou o **Mateus Henrique Almeida Boiça**. Atualmente focado no aprendizado
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Docusaurus" 
-    title="Docusaurus"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docusaurus/docusaurus-original.svg" 
-/>
 
 <br/>
 <br/>

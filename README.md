@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá! Sou o **Mateus Henrique Almeida Boiça**. Atualmente focado no aprendizado com o desenvolvimento de soluções robustas utilizando **Java (Spring Boot)** no backend e interfaces modernas com **React** no frontend. Tenho experiência na criação de sistemas de gerenciamento, documentação técnica com **Docusaurus** e bancos de dados NoSQL (**MongoDB**).
+Olá! Sou o **Mateus Henrique Almeida Boiça**. Atualmente focado no aprendizado com o desenvolvimento de soluções utilizando **Java (Spring Boot)** no backend e interfaces modernas com **React** no frontend. Tenho experiência na criação de sistemas de gerenciamento, documentação técnica com **Docusaurus** e bancos de dados NoSQL (**MongoDB**).
 
 <p align="left">
     <a href="https://github.com/mateusboica?tab=repositories&sort=stargazers">
